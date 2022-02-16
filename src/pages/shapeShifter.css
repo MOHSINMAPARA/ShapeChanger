@@ -1,0 +1,21 @@
+.square, .round {
+    width: 10rem;
+    height: 10rem;
+    background-color: blue;
+    margin: 1rem;
+    border: 2px solid white;
+  }
+  
+  .flex{
+    display: flex;
+  }
+  
+  .round {
+    border-radius: 50%;
+  }
+  .choiceContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
